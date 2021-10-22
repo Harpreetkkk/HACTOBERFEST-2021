@@ -1,5 +1,6 @@
 import os    
-import time    
+import time  
+import math  
     
 board = [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ']    
 player = 1    
@@ -88,3 +89,4 @@ elif(Game==Win):
         print("Player 1 Won")    
     else:    
         print("Player 2 Won")
+print("hope you like this")
