@@ -2,6 +2,7 @@ import pygame
 from pygame.locals import *
 from pygame import mixer
 import pickle
+import SpeechRecognition
 from os import path
 
 #made by harpreetkkk
