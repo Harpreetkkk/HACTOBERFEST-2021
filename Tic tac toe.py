@@ -1,6 +1,7 @@
 import os    
 import time  
-import math  
+import math
+import pandas  
     
 board = [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ']    
 player = 1    
