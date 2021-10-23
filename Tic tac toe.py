@@ -90,4 +90,5 @@ elif(Game==Win):
         print("Player 1 Won")    
     else:    
         print("Player 2 Won")
-print("hope you like this")
+print("Hope you like this")
+print("Thank You")
