@@ -486,3 +486,4 @@ while run:
     pygame.display.update()
 
 pygame.quit()
+print"Game over . Better luck next time."
